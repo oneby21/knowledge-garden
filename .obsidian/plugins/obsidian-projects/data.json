@@ -1,0 +1,193 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "🧰 本库指南",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "sortField": "date created",
+            "sortAsc": true,
+            "fieldConfig": {
+              "title": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "69c79ea8-8601-4906-b81a-69bcccc14d77",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "49aaddd6-5e6e-4f0d-8149-bc9b14503403",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "date modified"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "41c93621-b188-4f7f-8b62-998b5d006fe1",
+          "name": "Calendar",
+          "type": "calendar"
+        }
+      ],
+      "name": "本库指南",
+      "id": "5b2e982b-3384-43c2-94d8-4ac66a05d8d5"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Spaces/2-Area/运动与健康",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "sortField": "name",
+            "sortAsc": true,
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "545e2139-bd60-4c9d-9ead-3e11988332d0",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "f8de02b9-2620-4bb4-8f6d-faef2843ccba",
+          "name": "Gallery",
+          "type": "gallery"
+        }
+      ],
+      "name": "运动与健康",
+      "id": "bea5c9cd-0dc3-4de7-8905-3a133b5cb198"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Sources/Books/微信读书同步",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "aa893129-fed6-4db8-aec7-d159ffe31d66",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "name": "微信读书",
+      "id": "e20e8961-c1b7-44ba-974b-46c2ac839a29"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Spaces/1-Project",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "5d7d5d42-494f-4d4d-834c-6a42132990ca",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "name": "1-Project",
+      "id": "fa50532f-6f9a-4f1f-bcde-7e2cf825894f"
+    }
+  ],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    }
+  }
+}
